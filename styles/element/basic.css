@@ -1,0 +1,12 @@
+html, body {
+    font-size: 10px;
+}
+
+body {
+    background-color: var(--color-background);
+    background-image: url(https://kanto.legiaodosherois.com.br/w1200-h628-cfill/wp-content/uploads/2021/12/legiao_Th0CfVlM_7i3.png.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: var(--color-text);
+    font-family: 'Mystery Quest', cursive;
+}
